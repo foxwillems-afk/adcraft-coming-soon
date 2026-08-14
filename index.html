@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Adcraft – Wij bouwen digitale groei. Binnenkort online.">
+  <title>Adcraft — Binnenkort online</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; width: 100%; min-height: 100%; }
+    body {
+      min-height: 100vh;
+      min-height: 100svh;
+      background:
+        radial-gradient(circle at 0% 45%, rgba(236, 0, 111, .72) 0, rgba(236, 0, 111, .18) 22%, transparent 45%),
+        radial-gradient(circle at 82% 0%, rgba(236, 0, 111, .85) 0, rgba(236, 0, 111, .20) 23%, transparent 48%),
+        radial-gradient(circle at 70% 75%, rgba(0, 8, 12, .95) 0, #08080d 52%, #151019 100%);
+      color: #fff;
+      font-family: Arial, Helvetica, sans-serif;
+      overflow: hidden;
+    }
+
+    .page {
+      min-height: 100vh;
+      min-height: 100svh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 40px 24px 28px;
+      position: relative;
+    }
+
+    .logo {
+      width: min(760px, 82vw);
+      max-width: 760px;
+      height: auto;
+      display: block;
+      margin-bottom: 62px;
+      filter: drop-shadow(0 12px 35px rgba(0,0,0,.28));
+    }
+
+    .message {
+      text-align: center;
+      max-width: 620px;
+    }
+
+    .eyebrow {
+      margin: 0 0 16px;
+      font-size: 12px;
+      line-height: 1;
+      letter-spacing: .28em;
+      font-weight: 700;
+      opacity: .58;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(42px, 6vw, 72px);
+      line-height: .98;
+      letter-spacing: -.045em;
+      font-weight: 600;
+    }
+
+    .text {
+      margin: 24px auto 0;
+      max-width: 480px;
+      font-size: 16px;
+      line-height: 1.65;
+      color: rgba(255,255,255,.62);
+    }
+
+    .contact {
+      position: absolute;
+      bottom: 28px;
+      display: flex;
+      gap: 26px;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      font-size: 13px;
+      color: rgba(255,255,255,.55);
+    }
+
+    .contact a {
+      color: inherit;
+      text-decoration: none;
+      transition: color .2s ease;
+    }
+
+    .contact a:hover { color: #fff; }
+
+    @media (max-width: 600px) {
+      .page { padding: 28px 22px 72px; }
+
+      .logo {
+        width: 88vw;
+        margin-bottom: 48px;
+      }
+
+      .eyebrow {
+        font-size: 10px;
+        letter-spacing: .22em;
+      }
+
+      h1 {
+        font-size: 46px;
+      }
+
+      .text {
+        font-size: 14px;
+        line-height: 1.6;
+        max-width: 330px;
+      }
+
+      .contact {
+        bottom: 22px;
+        gap: 12px 18px;
+        font-size: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <img class="logo" src="adcraft-header.png" alt="Adcraft — Wij bouwen digitale groei.">
+
+    <section class="message">
+      <p class="eyebrow">BINNENKORT ONLINE</p>
+      <h1>We bouwen<br>iets nieuws.</h1>
+      <p class="text">
+        Onze nieuwe website is momenteel in ontwikkeling.
+        Binnenkort zijn we terug met een compleet nieuwe digitale ervaring.
+      </p>
+    </section>
+
+    <footer class="contact">
+      <a href="mailto:info@adcraft.nl">info@adcraft.nl</a>
+      <a href="tel:+31611491811">+31 6 11 49 18 11</a>
+    </footer>
+  </main>
+</body>
+</html>
