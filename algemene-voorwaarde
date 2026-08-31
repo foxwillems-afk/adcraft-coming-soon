@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Algemene Voorwaarden — Adcraft</title>
+<meta name="description" content="Algemene Voorwaarden van Adcraft.">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;width:100%}
+body{
+  background:#08090d;
+  color:#fff;
+  font-family:Arial,Helvetica,sans-serif;
+  line-height:1.6;
+}
+.wrap{
+  max-width:760px;
+  margin:0 auto;
+  padding:64px 24px 96px;
+}
+.back{
+  display:inline-block;
+  margin-bottom:40px;
+  font-size:14px;
+  color:rgba(255,255,255,.58);
+  text-decoration:none;
+}
+.back:hover{color:#fff}
+h1{
+  margin:0 0 6px;
+  font-size:clamp(32px,4vw,44px);
+  letter-spacing:-1.5px;
+  font-weight:700;
+}
+.meta{
+  margin:0 0 48px;
+  font-size:15px;
+  font-weight:300;
+  color:rgba(255,255,255,.5);
+}
+h2{
+  margin:44px 0 14px;
+  font-size:20px;
+  font-weight:700;
+  letter-spacing:-.3px;
+}
+p{
+  margin:0 0 14px;
+  font-size:15px;
+  font-weight:300;
+  color:rgba(255,255,255,.82);
+}
+ul{
+  margin:0 0 14px;
+  padding-left:20px;
+}
+li{
+  margin-bottom:6px;
+  font-size:15px;
+  font-weight:300;
+  color:rgba(255,255,255,.82);
+}
+strong{font-weight:700}
+footer{
+  margin-top:64px;
+  padding-top:24px;
+  border-top:1px solid rgba(255,255,255,.12);
+  font-size:14px;
+  color:rgba(255,255,255,.58);
+}
+footer a{color:inherit;text-decoration:none}
+footer a:hover{color:#fff}
+@media(max-width:700px){
+  .wrap{padding:40px 20px 72px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="/">← Terug naar adcraft.nl</a>
+
+  <h1>Algemene Voorwaarden Adcraft</h1>
+  <p class="meta">Versie 1.0 | augustus 2026</p>
+
+  <p>Adcraft, gevestigd te Almelo, ingeschreven bij de Kamer van Koophandel onder nummer 42013903, hierna te noemen "Adcraft".</p>
+
+  <h2>Artikel 1 – Definities</h2>
+  <p>In deze algemene voorwaarden worden de volgende begrippen gehanteerd:</p>
+  <p><strong>Adcraft:</strong> de eenmanszaak Adcraft, gevestigd te Almelo, die diensten aanbiedt op het gebied van branding, webdesign, webdevelopment, e-commerce en digitale marketing.</p>
+  <p><strong>Opdrachtgever:</strong> de natuurlijke persoon of rechtspersoon die een opdracht verstrekt aan Adcraft.</p>
+  <p><strong>Opdracht:</strong> de tussen Adcraft en opdrachtgever overeengekomen werkzaamheden, zoals vastgelegd in een offerte, voorstel of schriftelijke bevestiging.</p>
+  <p><strong>Schriftelijk:</strong> per brief, e-mail of via een ander digitaal communicatiemiddel.</p>
+  <p><strong>Meerwerk:</strong> werkzaamheden die buiten de oorspronkelijk overeengekomen opdracht vallen en apart worden geoffreerd en gefactureerd.</p>
+
+  <h2>Artikel 2 – Toepasselijkheid</h2>
+  <p>2.1 Deze algemene voorwaarden zijn van toepassing op alle offertes, aanbiedingen, overeenkomsten en werkzaamheden van Adcraft, tenzij uitdrukkelijk en schriftelijk anders is overeengekomen.</p>
+  <p>2.2 Afwijkingen van deze voorwaarden zijn alleen geldig indien deze schriftelijk zijn vastgelegd en door beide partijen zijn ondertekend.</p>
+  <p>2.3 De toepasselijkheid van eventuele voorwaarden van de opdrachtgever wordt uitdrukkelijk van de hand gewezen.</p>
+  <p>2.4 Indien een bepaling in deze voorwaarden nietig of vernietigbaar blijkt, blijven de overige bepalingen onverminderd van kracht. De nietige of vernietigbare bepaling wordt vervangen door een bepaling die zoveel mogelijk aansluit bij de oorspronkelijke strekking.</p>
+
+  <h2>Artikel 3 – Offertes en overeenkomsten</h2>
+  <p>3.1 Alle offertes van Adcraft zijn vrijblijvend en geldig gedurende 30 dagen na de offertedatum, tenzij anders aangegeven.</p>
+  <p>3.2 Een overeenkomst komt tot stand op het moment dat de opdrachtgever de offerte schriftelijk heeft aanvaard, of zodra Adcraft met de uitvoering van de werkzaamheden is begonnen op verzoek van de opdrachtgever.</p>
+  <p>3.3 Adcraft behoudt zich het recht voor een opdracht te weigeren, zonder opgave van redenen.</p>
+  <p>3.4 Mondelinge afspraken zijn slechts bindend nadat Adcraft deze schriftelijk heeft bevestigd.</p>
+
+  <h2>Artikel 4 – Uitvoering van de opdracht</h2>
+  <p>4.1 Adcraft voert de opdracht uit naar beste inzicht, deskundigheid en vermogen.</p>
+  <p>4.2 De opgegeven oplevertermijnen zijn indicatief en gelden als streefdata, tenzij uitdrukkelijk schriftelijk een fatale termijn is overeengekomen.</p>
+  <p>4.3 Overschrijding van een termijn geeft de opdrachtgever geen recht op schadevergoeding of ontbinding van de overeenkomst, tenzij sprake is van opzet of grove nalatigheid aan de zijde van Adcraft.</p>
+  <p>4.4 Adcraft is gerechtigd werkzaamheden te laten uitvoeren door derden, zonder voorafgaande toestemming van de opdrachtgever.</p>
+  <p>4.5 De opdrachtgever is verplicht alle informatie en materialen die Adcraft nodig heeft voor de uitvoering van de opdracht tijdig aan te leveren. Vertraging als gevolg van te late aanlevering is voor rekening en risico van de opdrachtgever.</p>
+  <p>4.6 Adcraft is niet aansprakelijk voor fouten in het eindresultaat die voortvloeien uit onjuiste, onvolledige of te laat aangeleverde informatie door de opdrachtgever.</p>
+
+  <h2>Artikel 5 – Feedbackronden en wijzigingen</h2>
+  <p>5.1 Tenzij uitdrukkelijk anders overeengekomen, is per opdracht of deelproject één feedbackronde inbegrepen.</p>
+  <p>5.2 Wijzigingen die buiten de overeengekomen feedbackronde(n) vallen, worden beschouwd als meerwerk en apart gefactureerd op basis van het geldende uurtarief van Adcraft.</p>
+  <p>5.3 Meerwerk wordt vooraf afgestemd met de opdrachtgever. Adcraft zal meerwerk nooit zonder schriftelijke akkoord van de opdrachtgever uitvoeren.</p>
+  <p>5.4 De opdrachtgever is zelf verantwoordelijk voor het controleren van het aangeleverde werk op inhoudelijke fouten — zoals teksten, aantallen, afmetingen, kleuren en overige specificaties — vóór definitief akkoord wordt gegeven. Na akkoord vervalt de aansprakelijkheid van Adcraft voor dergelijke fouten.</p>
+
+  <h2>Artikel 6 – Betaling</h2>
+  <p>6.1 Tenzij schriftelijk anders overeengekomen, hanteert Adcraft de volgende betalingsstructuur:</p>
+  <ul>
+    <li>50% aanbetaling bij akkoord op de offerte, vóór aanvang van de werkzaamheden;</li>
+    <li>50% restbetaling bij oplevering, vóór livegang of overdracht van bestanden.</li>
+  </ul>
+  <p>6.2 Facturen dienen te worden voldaan binnen 14 dagen na factuurdatum, tenzij anders overeengekomen.</p>
+  <p>6.3 Bij overschrijding van de betalingstermijn is de opdrachtgever van rechtswege in verzuim. Adcraft is dan gerechtigd de wettelijke handelsrente in rekening te brengen vanaf de vervaldatum.</p>
+  <p>6.4 Bij een doorlopend retainer wordt het maandbedrag maandelijks vooraf gefactureerd en dient dit te worden voldaan vóór aanvang van de betreffende maand.</p>
+  <p>6.5 Bij twee opeenvolgende gemiste betalingen is Adcraft gerechtigd de dienstverlening per direct op te schorten of te staken, zonder aansprakelijkheid voor hieruit voortvloeiende schade.</p>
+  <p>6.6 Zolang openstaande facturen niet volledig zijn voldaan, behoudt Adcraft het recht op toegang tot en controle over gehoste websites, domeinnamen en overige door Adcraft beheerde digitale eigendommen van de opdrachtgever.</p>
+  <p>6.7 Alle vermelde prijzen zijn exclusief btw, tenzij uitdrukkelijk anders aangegeven.</p>
+
+  <h2>Artikel 7 – Intellectueel eigendom</h2>
+  <p>7.1 Het auteursrecht en overige intellectuele eigendomsrechten op alle door Adcraft vervaardigde werken — waaronder ontwerpen, code, teksten en visuele uitingen — berusten bij Adcraft, tenzij schriftelijk anders overeengekomen.</p>
+  <p>7.2 Na volledige betaling van de overeengekomen vergoeding verleent Adcraft de opdrachtgever een niet-exclusief gebruiksrecht op de geleverde werken, voor de doeleinden waarvoor de opdracht is verstrekt.</p>
+  <p>7.3 De opdrachtgever is niet gerechtigd de geleverde werken te wijzigen, door te verkopen of aan derden ter beschikking te stellen zonder voorafgaande schriftelijke toestemming van Adcraft.</p>
+  <p>7.4 Adcraft behoudt te allen tijde het recht de werken te gebruiken voor eigen promotie, portfolio en marketingdoeleinden, tenzij uitdrukkelijk anders overeengekomen.</p>
+
+  <h2>Artikel 8 – Publicatie en referentie</h2>
+  <p>8.1 Adcraft is gerechtigd de voor de opdrachtgever uitgevoerde werkzaamheden en resultaten te tonen als referentie, zowel in het portfolio als via online mediakanalen, waaronder maar niet beperkt tot de website van Adcraft, Instagram, LinkedIn, Facebook en andere sociale media.</p>
+  <p>8.2 Door akkoord te gaan met de offerte of overeenkomst geeft de opdrachtgever hiervoor uitdrukkelijk toestemming, tenzij de opdrachtgever schriftelijk en vóór aanvang van de opdracht heeft aangegeven dat publicatie niet is toegestaan.</p>
+  <p>8.3 Adcraft zal bij publicatie zorgvuldig omgaan met vertrouwelijke bedrijfsinformatie en slechts het visuele eindresultaat delen, tenzij de opdrachtgever uitdrukkelijk ruimere toestemming heeft verleend.</p>
+  <p>8.4 De opdrachtgever heeft het recht om na oplevering schriftelijk te verzoeken een specifieke publicatie te verwijderen. Adcraft zal hieraan binnen redelijke termijn gehoor geven.</p>
+
+  <h2>Artikel 9 – Geheimhouding</h2>
+  <p>9.1 Beide partijen zijn verplicht tot geheimhouding van alle vertrouwelijke informatie die zij in het kader van de opdracht van de andere partij ontvangen.</p>
+  <p>9.2 Informatie is vertrouwelijk als dit door de andere partij is aangegeven, of als dit redelijkerwijs uit de aard van de informatie voortvloeit.</p>
+  <p>9.3 Deze geheimhoudingsplicht geldt niet indien de informatie reeds openbaar is, of indien verstrekking wettelijk verplicht is.</p>
+
+  <h2>Artikel 10 – Aansprakelijkheid</h2>
+  <p>10.1 De aansprakelijkheid van Adcraft is te allen tijde beperkt tot het bedrag dat in het kader van de betreffende opdracht door de opdrachtgever is betaald, met een maximum van € 2.500.</p>
+  <p>10.2 Adcraft is niet aansprakelijk voor indirecte schade, gevolgschade, gederfde winst, gemiste besparingen of schade door bedrijfsstagnatie.</p>
+  <p>10.3 Adcraft is niet aansprakelijk voor schade die voortvloeit uit onjuiste of te laat aangeleverde informatie, materialen of besluiten van de opdrachtgever.</p>
+  <p>10.4 Adcraft is niet aansprakelijk voor storingen, uitval of gebreken bij door derden geleverde diensten, zoals hostingproviders, domeinnaamregistrars of externe platformen.</p>
+  <p>10.5 De opdrachtgever vrijwaart Adcraft voor aanspraken van derden die verband houden met de door de opdrachtgever aangeleverde materialen, teksten of instructies.</p>
+
+  <h2>Artikel 11 – Opschorting en ontbinding</h2>
+  <p>11.1 Adcraft is gerechtigd de uitvoering van de opdracht op te schorten indien de opdrachtgever zijn verplichtingen niet, niet tijdig of niet volledig nakomt.</p>
+  <p>11.2 Adcraft is gerechtigd de overeenkomst met onmiddellijke ingang te ontbinden indien de opdrachtgever in staat van faillissement wordt verklaard, surseance van betaling aanvraagt, of anderszins niet in staat is aan zijn financiële verplichtingen te voldoen.</p>
+  <p>11.3 Bij ontbinding door toedoen van de opdrachtgever is Adcraft gerechtigd de reeds verrichte werkzaamheden te factureren op basis van het uurtarief, onverminderd het recht op vergoeding van overige schade en kosten.</p>
+
+  <h2>Artikel 12 – Privacy en gegevensbescherming</h2>
+  <p>12.1 Adcraft verwerkt persoonsgegevens van de opdrachtgever uitsluitend ten behoeve van de uitvoering van de opdracht en in overeenstemming met de Algemene Verordening Gegevensbescherming (AVG).</p>
+  <p>12.2 Persoonsgegevens worden niet gedeeld met derden, tenzij dit noodzakelijk is voor de uitvoering van de opdracht of wettelijk verplicht is.</p>
+  <p>12.3 Na afronding van de opdracht worden persoonsgegevens binnen 12 maanden verwijderd, tenzij een wettelijke bewaarplicht van toepassing is.</p>
+
+  <h2>Artikel 13 – Toepasselijk recht en geschillen</h2>
+  <p>13.1 Op alle overeenkomsten tussen Adcraft en de opdrachtgever is uitsluitend Nederlands recht van toepassing.</p>
+  <p>13.2 Geschillen worden in eerste instantie in onderling overleg opgelost. Indien partijen er niet in slagen het geschil in onderling overleg te beslechten, wordt het voorgelegd aan de bevoegde rechter in het arrondissement Overijssel.</p>
+
+  <h2>Artikel 14 – Wijziging van de voorwaarden</h2>
+  <p>14.1 Adcraft behoudt zich het recht voor deze algemene voorwaarden te wijzigen. De meest actuele versie is te vinden op adcraft.nl/algemene-voorwaarden.</p>
+  <p>14.2 Wijzigingen treden in werking 30 dagen na bekendmaking, tenzij anders vermeld.</p>
+
+  <footer>
+    Adcraft — Almelo | <a href="https://adcraft.nl">adcraft.nl</a> | <a href="mailto:fox@adcraft.nl">fox@adcraft.nl</a> | <a href="tel:+31611491811">+316 11491811</a>
+  </footer>
+</div>
+</body>
+</html>
